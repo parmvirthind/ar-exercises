@@ -11,4 +11,3 @@ puts "----------"
 
 @store1.name = "White Rock"
 @store1.save
-puts @store1
